@@ -9,11 +9,15 @@ Microsoft Recommender Copy
 ```
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1
 conda install -c conda-forge pyspark
-conda install pytorch torchvision torchaudio cudatoolkit=11.2 -c pytorch```
+conda install pytorch torchvision torchaudio cudatoolkit=11.2 -c pytorch
+```
 
-```pip install recommenders[examples,gpu,spark]```
+```
+pip install recommenders[examples,gpu,spark]
+```   
 
----
+
+
 22.07.22.
 `import cornac`에서 오류가 있었습니다.
 >> Importerror libpython3.7m.so.1.0 cannot open shared object file no such file or director
