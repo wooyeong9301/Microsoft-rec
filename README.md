@@ -4,7 +4,7 @@ Microsoft Recommender Copy
 
 ### Versions
 `Python` `Pytorch` `Anaconda` `Jupyter notebook`   
-`Python 3.7.13` `cuda 11.2` `cudnn 8.1`   
+`Python 3.8.13` `cuda 11.2` `cudnn 8.1`   
 
 ```
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1
